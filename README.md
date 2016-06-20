@@ -1,2 +1,3 @@
 # hello-world
-Just a test
+Just a test.
+It's Hello World to git.
